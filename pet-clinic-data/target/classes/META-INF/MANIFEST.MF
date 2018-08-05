@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: alassaneniang
+Build-Jdk: 10
+Implementation-Title: pet-clinic-data
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.alassaneniang
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
